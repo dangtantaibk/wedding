@@ -4,8 +4,10 @@ node_modules
 .env
 .vercel
 .output
+.client_secret.json
 
 /build/
 /public/build
 /api/index.js
 /api/index.js.map
+
